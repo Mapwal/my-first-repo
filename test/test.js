@@ -1,0 +1,1 @@
+console.log('My cat isn^t too fat')
